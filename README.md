@@ -1,2 +1,2 @@
 # My Portfolio
-Link: 
+Link: https://guuzzeji.github.io/myportfolio/
